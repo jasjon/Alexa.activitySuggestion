@@ -1,1 +1,9 @@
-
+ConvertWeightFromKg convert {fromNumber} point {fromNumberDecimal} kilos to {conversionFormat}
+ConvertWeightFromKg convert {fromNumber} kilos to {conversionFormat}
+ConvertWeightFromKg convert {fromNumber} point {fromNumberDecimal} kilos to {conversionFormat}
+ConvertWeightFromKg swap {fromNumber} kilos to {conversionFormat}
+ConvertWeightFromKg swap {fromNumber} point {fromNumberDecimal} kilos to {conversionFormat}
+ConvertWeightFromKg change {fromNumber} kilos to {conversionFormat}
+ConvertWeightFromKg change {fromNumber} point {fromNumberDecimal} kilos to {conversionFormat}
+ConvertWeightFromKg what is {fromNumber} kilos in {conversionFormat}
+ConvertWeightFromKg what is {fromNumber} point {fromNumberDecimal} kilos in {conversionFormat}

@@ -8,6 +8,23 @@
     },
     {
       "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "fromNumber",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "fromNumberDecimal",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "conversionFormat",
+          "type": "CONVERSION_DESTINATION"
+        }
+      ],
+      "intent": "ConvertWeightFromKg"
     }
   ]
 }
