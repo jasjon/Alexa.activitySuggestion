@@ -1,0 +1,36 @@
+{
+  "session": {
+    "sessionId": "SessionId.064c7af8-2969-410f-9a16-f7bbbc85bf4e",
+    "application": {
+      "applicationId": "amzn1.ask.skill.8516d86c-ca44-4b2e-a7fc-70d62cbba82a"
+    },
+    "attributes": {
+      "activityIdea": {
+        "speechOutput": "Draw the flag of a donkey",
+        "additionalText": "Make it scary - make the eyes scary",
+        "name": "PirateFlag",
+        "cardContent": "Long description for the card text",
+        "speechTip": "You'll need a big piece of paper because you can turn this into a real flag later.",
+        "type": "Drawing",
+        "cardTitle": "A pirates flag"
+      },
+      "STATE": "_DRAWINGACTIVITY",
+      "DrawingDialog": "FromUnhandled"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.jason"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.c6779f28-def2-41f6-bf7a-8ba922799e7b",
+    "locale": "en-GB",
+    "timestamp": "2017-06-05T09:24:34Z",
+    "intent": {
+      "name": "RequestActivityDrawing",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}

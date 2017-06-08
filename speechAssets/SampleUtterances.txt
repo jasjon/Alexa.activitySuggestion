@@ -1,9 +1,49 @@
-ConvertWeightFromKg convert {fromNumber} point {fromNumberDecimal} kilos to {conversionFormat}
-ConvertWeightFromKg convert {fromNumber} kilos to {conversionFormat}
-ConvertWeightFromKg convert {fromNumber} point {fromNumberDecimal} kilos to {conversionFormat}
-ConvertWeightFromKg swap {fromNumber} kilos to {conversionFormat}
-ConvertWeightFromKg swap {fromNumber} point {fromNumberDecimal} kilos to {conversionFormat}
-ConvertWeightFromKg change {fromNumber} kilos to {conversionFormat}
-ConvertWeightFromKg change {fromNumber} point {fromNumberDecimal} kilos to {conversionFormat}
-ConvertWeightFromKg what is {fromNumber} kilos in {conversionFormat}
-ConvertWeightFromKg what is {fromNumber} point {fromNumberDecimal} kilos in {conversionFormat}
+RequestActivityGeneral what should I do
+RequestActivityGeneral give me a task to do 
+RequestActivityGeneral give me something to do
+RequestActivityGeneral tell me what to do
+
+RequestNotFound i don't know
+RequestNotFound what now
+RequestNotFound catch all phrase
+
+RequestActivityDrawing what should I draw
+RequestActivityDrawing give me a drawing idea
+RequestActivityDrawing give me something to draw
+
+RequestActivityDrawing what to do
+RequestActivityDrawing what to draw
+RequestActivityDrawing give me a drawing idea
+RequestActivityDrawing give me an idea
+RequestActivityDrawing give me a drawing idea
+RequestActivityDrawing tell me what to do
+RequestActivityDrawing give me something to draw
+RequestActivityDrawing what should I draw
+RequestActivityDrawing give me inspiration to draw
+RequestActivityDrawing give me inspiration to draw something
+RequestActivityDrawing tell me what to draw
+RequestActivityDrawing a drawing idea
+RequestActivityDrawing an idea for something to draw
+RequestActivityDrawing I would like something to draw
+RequestActivityDrawing I'd like something to draw
+RequestActivityDrawing give me something else to draw
+RequestActivityDrawing I'd like something else to draw
+RequestActivityDrawing what should I draw next
+RequestActivityDrawing new
+RequestActivityDrawing give me a new one
+RequestActivityDrawing another
+RequestActivityDrawing give me another
+
+DrawingTipsIntent give me more tips
+DrawingTipsIntent tips
+DrawingTipsIntent more tips
+DrawingTipsIntent tell me more
+DrawingTipsIntent more
+DrawingTipsIntent again
+
+RepeatIntent repeat
+RepeatIntent again
+RepeatIntent say that again
+RepeatIntent pardon
+
+

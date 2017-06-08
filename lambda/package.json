@@ -1,6 +1,8 @@
 {
   "author": "JasonJones",
   "dependencies": {
-    "alexa-sdk": "^1.0.6"
+    "alexa-sdk": "^1.0.6",
+    "node-uuid": ">= 1.4.1",
+    "aws-sdk": ">= 2.0.9"
   }
 }

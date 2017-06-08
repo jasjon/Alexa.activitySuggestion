@@ -1,0 +1,56 @@
+{
+    "items":[
+    {
+        "name": "PirateFlag",
+        "type": "Drawing",
+        "speechOutput": "draw the flag of your own pirate ship",
+        "speechTip": "Get a big piece of paper so that you can turn this into a real flag later. Also, remember to make it scary enough to protect your boat",
+        "cardTitle": "Draw the flag for your pirates ship",
+        "cardContent": "Get a big piece of paper so that you can turn this into a real flag later. Extra points if you use a parrot.",
+        "additionalText": "Make it scary - make the eyes scary"
+    },
+    {
+        "name": "Ant",
+        "type": "Drawing",
+        "speechOutput": "draw an ant with six big feet who has lost his friends",
+        "speechTip": "Some of his feet should have shoes, add some detail to his hairy legs.  Remember to give him a really cool name.",
+        "cardTitle": "An ant",
+        "cardContent": "Some of his feet should have shoes, add some detail to his hairy legs.  Remember to give him a really cool name.",
+        "additionalText": "Make sure it has six legs and an antennae"
+    },
+    {
+        "name": "Bridge",
+        "type": "Drawing",
+        "speechOutput": "draw a bridge with you on one side and an amazing place on the other.",
+        "speechTip": "Add some detail to the floor of the bridge.  Is there anything living near your bridge?",
+        "cardTitle": "A bridge to an amazing place",
+        "cardContent": "Add some detail to the floor of the bridge. Extra points if you someone can guess your amazing place.",
+        "additionalText": "Make it strong"
+    },
+    {   "name": "HalfFace",
+        "type": "Drawing",
+        "speechOutput": "draw the left side of your face",
+        "speechTip": "Get a mirror and keep to the left hand side only.  When you are finished get someone else to draw the right hand side.",
+        "cardTitle": "A half face",
+        "cardContent": "When you are finished get someone else to draw the right hand side.",
+        "additionalText": "Make it big "
+    },
+    {   "name": "FrogTelephone",
+        "type": "Drawing",
+        "speechOutput": "draw a frog that is being used as a telephone",
+        "speechTip": "Think if the frog is enjoying this or not - let his feelings show through in your drawing.",
+        "cardTitle": "A frog as a telephone",
+        "cardContent": "Extra points if the frog has numbers on him to be used as a real telephone.",
+        "additionalText": "Make it big "
+    },
+    {   "name": "UpsideDownMan",
+        "type": "Drawing",
+        "speechOutput": "draw a man who is in a smart suit and standing on his head.",
+        "speechTip": "It is classed as cheating if you turn the paper upside down.  Think if his suit still fits if he is upside down.",
+        "cardTitle": "A upside down smart man",
+        "cardContent": "It is classed as cheating if you turn the paper upside down.",
+        "additionalText": "Make it big "
+    }
+    ]
+    
+}

@@ -10,21 +10,25 @@
       "intent": "AMAZON.HelpIntent"
     },
     {
-      "slots": [
-        {
-          "name": "fromNumber",
-          "type": "AMAZON.NUMBER"
-        },
-        {
-          "name": "fromNumberDecimal",
-          "type": "AMAZON.NUMBER"
-        },
-        {
-          "name": "conversionFormat",
-          "type": "CONVERSION_DESTINATION"
-        }
-      ],
-      "intent": "ConvertWeightFromKg"
+      "intent": "RequestActivityGeneral"
+    },
+    {
+      "intent": "RequestActivityDrawing"
+    },
+    {
+      "intent": "RequestNotFound"
+    },    
+    {
+      "intent": "RepeatIntent"
+    },
+    {
+      "intent": "DrawingTipsIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
     }
   ]
 }
